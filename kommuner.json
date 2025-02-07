@@ -1,0 +1,1578 @@
+[
+  {
+    "code": "01",
+    "name": "Stockholms län",
+    "municipalities": [
+      {
+        "code": "0114",
+        "name": "Upplands Väsby kommun",
+        "shortName": "Upplands Väsby"
+      },
+      {
+        "code": "0115",
+        "name": "Vallentuna kommun",
+        "shortName": "Vallentuna"
+      },
+      {
+        "code": "0117",
+        "name": "Österåkers kommun",
+        "shortName": "Österåker"
+      },
+      {
+        "code": "0120",
+        "name": "Värmdö kommun",
+        "shortName": "Värmdö"
+      },
+      {
+        "code": "0123",
+        "name": "Järfälla kommun",
+        "shortName": "Järfälla"
+      },
+      {
+        "code": "0125",
+        "name": "Ekerö kommun",
+        "shortName": "Ekerö"
+      },
+      {
+        "code": "0126",
+        "name": "Huddinge kommun",
+        "shortName": "Huddinge"
+      },
+      {
+        "code": "0127",
+        "name": "Botkyrka kommun",
+        "shortName": "Botkyrka"
+      },
+      {
+        "code": "0128",
+        "name": "Salems kommun",
+        "shortName": "Salem"
+      },
+      {
+        "code": "0136",
+        "name": "Haninge kommun",
+        "shortName": "Haninge"
+      },
+      {
+        "code": "0138",
+        "name": "Tyresö kommun",
+        "shortName": "Tyresö"
+      },
+      {
+        "code": "0139",
+        "name": "Upplands-Bro kommun",
+        "shortName": "Upplands-Bro"
+      },
+      {
+        "code": "0140",
+        "name": "Nykvarns kommun",
+        "shortName": "Nykvarn"
+      },
+      {
+        "code": "0160",
+        "name": "Täby kommun",
+        "shortName": "Täby"
+      },
+      {
+        "code": "0162",
+        "name": "Danderyds kommun",
+        "shortName": "Danderyd"
+      },
+      {
+        "code": "0163",
+        "name": "Sollentuna kommun",
+        "shortName": "Sollentuna"
+      },
+      {
+        "code": "0180",
+        "name": "Stockholms kommun",
+        "shortName": "Stockholm"
+      },
+      {
+        "code": "0181",
+        "name": "Södertälje kommun",
+        "shortName": "Södertälje"
+      },
+      {
+        "code": "0182",
+        "name": "Nacka kommun",
+        "shortName": "Nacka"
+      },
+      {
+        "code": "0183",
+        "name": "Sundbybergs kommun",
+        "shortName": "Sundbyberg"
+      },
+      {
+        "code": "0184",
+        "name": "Solna kommun",
+        "shortName": "Solna"
+      },
+      {
+        "code": "0186",
+        "name": "Lidingö kommun",
+        "shortName": "Lidingö"
+      },
+      {
+        "code": "0187",
+        "name": "Vaxholms kommun",
+        "shortName": "Vaxholm"
+      },
+      {
+        "code": "0188",
+        "name": "Norrtälje kommun",
+        "shortName": "Norrtälje"
+      },
+      {
+        "code": "0191",
+        "name": "Sigtuna kommun",
+        "shortName": "Sigtuna"
+      },
+      {
+        "code": "0192",
+        "name": "Nynäshamns kommun",
+        "shortName": "Nynäshamn"
+      }
+    ]
+  },
+  {
+    "code": "03",
+    "name": "Uppsala län",
+    "municipalities": [
+      {
+        "code": "0305",
+        "name": "Håbo kommun",
+        "shortName": "Håbo"
+      },
+      {
+        "code": "0319",
+        "name": "Älvkarleby kommun",
+        "shortName": "Älvkarleby"
+      },
+      {
+        "code": "0330",
+        "name": "Knivsta kommun",
+        "shortName": "Knivsta"
+      },
+      {
+        "code": "0331",
+        "name": "Heby kommun",
+        "shortName": "Heby"
+      },
+      {
+        "code": "0360",
+        "name": "Tierps kommun",
+        "shortName": "Tierps"
+      },
+      {
+        "code": "0380",
+        "name": "Uppsala kommun",
+        "shortName": "Uppsala"
+      },
+      {
+        "code": "0381",
+        "name": "Enköpings kommun",
+        "shortName": "Enköping"
+      },
+      {
+        "code": "0382",
+        "name": "Östhammars kommun",
+        "shortName": "Östhammar"
+      }
+    ]
+  },
+  {
+    "code": "04",
+    "name": "Södermanlands län",
+    "municipalities": [
+      {
+        "code": "0428",
+        "name": "Vingåkers kommun",
+        "shortName": "Vingåker"
+      },
+      {
+        "code": "0461",
+        "name": "Gnesta kommun",
+        "shortName": "Gnesta"
+      },
+      {
+        "code": "0480",
+        "name": "Nyköpings kommun",
+        "shortName": "Nyköping"
+      },
+      {
+        "code": "0481",
+        "name": "Oxelösunds kommun",
+        "shortName": "Oxelösund"
+      },
+      {
+        "code": "0482",
+        "name": "Flens kommun",
+        "shortName": "Flen"
+      },
+      {
+        "code": "0483",
+        "name": "Katrineholms kommun",
+        "shortName": "Katrineholm"
+      },
+      {
+        "code": "0484",
+        "name": "Eskilstuna kommun",
+        "shortName": "Eskilstuna"
+      },
+      {
+        "code": "0486",
+        "name": "Strängnäs kommun",
+        "shortName": "Strängnäs"
+      },
+      {
+        "code": "0488",
+        "name": "Trosa kommun",
+        "shortName": "Trosa"
+      }
+    ]
+  },
+  {
+    "code": "05",
+    "name": "Östergötlands län",
+    "municipalities": [
+      {
+        "code": "0509",
+        "name": "Ödeshögs kommun",
+        "shortName": "Ödeshög"
+      },
+      {
+        "code": "0512",
+        "name": "Ydre kommun",
+        "shortName": "Ydre"
+      },
+      {
+        "code": "0513",
+        "name": "Kinda kommun",
+        "shortName": "Kinda"
+      },
+      {
+        "code": "0560",
+        "name": "Boxholms kommun",
+        "shortName": "Boxholm"
+      },
+      {
+        "code": "0561",
+        "name": "Åtvidabergs kommun",
+        "shortName": "Åtvidaberg"
+      },
+      {
+        "code": "0562",
+        "name": "Finspångs kommun",
+        "shortName": "Finspång"
+      },
+      {
+        "code": "0563",
+        "name": "Valdemarsviks kommun",
+        "shortName": "Valdemarsvik"
+      },
+      {
+        "code": "0580",
+        "name": "Linköpings kommun",
+        "shortName": "Linköping"
+      },
+      {
+        "code": "0581",
+        "name": "Norrköpings kommun",
+        "shortName": "Norrköping"
+      },
+      {
+        "code": "0582",
+        "name": "Söderköpings kommun",
+        "shortName": "Söderköping"
+      },
+      {
+        "code": "0583",
+        "name": "Motala kommun",
+        "shortName": "Motala"
+      },
+      {
+        "code": "0584",
+        "name": "Vadstena kommun",
+        "shortName": "Vadstena"
+      },
+      {
+        "code": "0586",
+        "name": "Mjölby kommun",
+        "shortName": "Mjölby"
+      }
+    ]
+  },
+  {
+    "code": "06",
+    "name": "Jönköpings län",
+    "municipalities": [
+      {
+        "code": "0604",
+        "name": "Aneby kommun",
+        "shortName": "Aneby"
+      },
+      {
+        "code": "0617",
+        "name": "Gnosjö kommun",
+        "shortName": "Gnosjö"
+      },
+      {
+        "code": "0642",
+        "name": "Mullsjö kommun",
+        "shortName": "Mullsjö"
+      },
+      {
+        "code": "0643",
+        "name": "Habo kommun",
+        "shortName": "Habo"
+      },
+      {
+        "code": "0662",
+        "name": "Gislaveds kommun",
+        "shortName": "Gislaveds"
+      },
+      {
+        "code": "0665",
+        "name": "Vaggeryds kommun",
+        "shortName": "Vaggeryd"
+      },
+      {
+        "code": "0680",
+        "name": "Jönköpings kommun",
+        "shortName": "Jönköping"
+      },
+      {
+        "code": "0682",
+        "name": "Nässjö kommun",
+        "shortName": "Nässjö"
+      },
+      {
+        "code": "0683",
+        "name": "Värnamo kommun",
+        "shortName": "Värnamo"
+      },
+      {
+        "code": "0684",
+        "name": "Sävsjö kommun",
+        "shortName": "Sävsjö"
+      },
+      {
+        "code": "0685",
+        "name": "Vetlanda kommun",
+        "shortName": "Vetlanda"
+      },
+      {
+        "code": "0686",
+        "name": "Eksjö kommun",
+        "shortName": "Eksjö"
+      },
+      {
+        "code": "0687",
+        "name": "Tranås kommun",
+        "shortName": "Tranås"
+      }
+    ]
+  },
+  {
+    "code": "07",
+    "name": "Kronobergs län",
+    "municipalities": [
+      {
+        "code": "0760",
+        "name": "Uppvidinge kommun",
+        "shortName": "Uppvidinge"
+      },
+      {
+        "code": "0761",
+        "name": "Lessebo kommun",
+        "shortName": "Lessebo"
+      },
+      {
+        "code": "0763",
+        "name": "Tingsryds kommun",
+        "shortName": "Tingsryds"
+      },
+      {
+        "code": "0764",
+        "name": "Alvesta kommun",
+        "shortName": "Alvesta"
+      },
+      {
+        "code": "0765",
+        "name": "Älmhults kommun",
+        "shortName": "Älmhult"
+      },
+      {
+        "code": "0767",
+        "name": "Markaryds kommun",
+        "shortName": "Markaryd"
+      },
+      {
+        "code": "0780",
+        "name": "Växjö kommun",
+        "shortName": "Växjö"
+      },
+      {
+        "code": "0781",
+        "name": "Ljungby kommun",
+        "shortName": "Ljungby"
+      }
+    ]
+  },
+  {
+    "code": "08",
+    "name": "Kalmar län",
+    "municipalities": [
+      {
+        "code": "0821",
+        "name": "Högsby kommun",
+        "shortName": "Högsby"
+      },
+      {
+        "code": "0834",
+        "name": "Torsås kommun",
+        "shortName": "Torsås"
+      },
+      {
+        "code": "0840",
+        "name": "Mörbylånga kommun",
+        "shortName": "Mörbylånga"
+      },
+      {
+        "code": "0860",
+        "name": "Hultsfreds kommun",
+        "shortName": "Hultsfred"
+      },
+      {
+        "code": "0861",
+        "name": "Mönsterås kommun",
+        "shortName": "Mönsterås"
+      },
+      {
+        "code": "0862",
+        "name": "Emmaboda kommun",
+        "shortName": "Emmaboda"
+      },
+      {
+        "code": "0880",
+        "name": "Kalmar kommun",
+        "shortName": "Kalmar"
+      },
+      {
+        "code": "0881",
+        "name": "Nybro kommun",
+        "shortName": "Nybro"
+      },
+      {
+        "code": "0882",
+        "name": "Oskarshamns kommun",
+        "shortName": "Oskarshamn"
+      },
+      {
+        "code": "0883",
+        "name": "Västerviks kommun",
+        "shortName": "Västervik"
+      },
+      {
+        "code": "0884",
+        "name": "Vimmerby kommun",
+        "shortName": "Vimmerby"
+      },
+      {
+        "code": "0885",
+        "name": "Borgholms kommun",
+        "shortName": "Borgholm"
+      }
+    ]
+  },
+  {
+    "code": "09",
+    "name": "Gotlands län",
+    "municipalities": [
+      {
+        "code": "0980",
+        "name": "Gotlands kommun",
+        "shortName": "Gotland"
+      }
+    ]
+  },
+  {
+    "code": "10",
+    "name": "Blekinge län",
+    "municipalities": [
+      {
+        "code": "1060",
+        "name": "Olofströms kommun",
+        "shortName": "Olofström"
+      },
+      {
+        "code": "1080",
+        "name": "Karlskrona kommun",
+        "shortName": "Karlskrona"
+      },
+      {
+        "code": "1081",
+        "name": "Ronneby kommun",
+        "shortName": "Ronneby"
+      },
+      {
+        "code": "1082",
+        "name": "Karlshamns kommun",
+        "shortName": "Karlshamn"
+      },
+      {
+        "code": "1083",
+        "name": "Sölvesborgs kommun",
+        "shortName": "Sölvesborg"
+      }
+    ]
+  },
+  {
+    "code": "12",
+    "name": "Skåne län",
+    "municipalities": [
+      {
+        "code": "1214",
+        "name": "Svalövs kommun",
+        "shortName": "Svalöv"
+      },
+      {
+        "code": "1230",
+        "name": "Staffanstorps kommun",
+        "shortName": "Staffanstorp"
+      },
+      {
+        "code": "1231",
+        "name": "Burlövs kommun",
+        "shortName": "Burlöv"
+      },
+      {
+        "code": "1233",
+        "name": "Vellinge kommun",
+        "shortName": "Vellinge"
+      },
+      {
+        "code": "1256",
+        "name": "Östra Göinge kommun",
+        "shortName": "Östra Göinge"
+      },
+      {
+        "code": "1257",
+        "name": "Örkelljunga kommun",
+        "shortName": "Örkelljunga"
+      },
+      {
+        "code": "1260",
+        "name": "Bjuvs kommun",
+        "shortName": "Bjuv"
+      },
+      {
+        "code": "1261",
+        "name": "Kävlinge kommun",
+        "shortName": "Kävlinge"
+      },
+      {
+        "code": "1262",
+        "name": "Lomma kommun",
+        "shortName": "Lomma"
+      },
+      {
+        "code": "1263",
+        "name": "Svedala kommun",
+        "shortName": "Svedala"
+      },
+      {
+        "code": "1264",
+        "name": "Skurups kommun",
+        "shortName": "Skurup"
+      },
+      {
+        "code": "1265",
+        "name": "Sjöbo kommun",
+        "shortName": "Sjöbo"
+      },
+      {
+        "code": "1266",
+        "name": "Hörby kommun",
+        "shortName": "Hörby"
+      },
+      {
+        "code": "1267",
+        "name": "Höörs kommun",
+        "shortName": "Höör"
+      },
+      {
+        "code": "1270",
+        "name": "Tomelilla kommun",
+        "shortName": "Tomelilla"
+      },
+      {
+        "code": "1272",
+        "name": "Bromölla kommun",
+        "shortName": "Bromölla"
+      },
+      {
+        "code": "1273",
+        "name": "Osby kommun",
+        "shortName": "Osby"
+      },
+      {
+        "code": "1275",
+        "name": "Perstorps kommun",
+        "shortName": "Perstorp"
+      },
+      {
+        "code": "1276",
+        "name": "Klippans kommun",
+        "shortName": "Klippan"
+      },
+      {
+        "code": "1277",
+        "name": "Åstorps kommun",
+        "shortName": "Åstorp"
+      },
+      {
+        "code": "1278",
+        "name": "Båstads kommun",
+        "shortName": "Båstad"
+      },
+      {
+        "code": "1280",
+        "name": "Malmö kommun",
+        "shortName": "Malmö"
+      },
+      {
+        "code": "1281",
+        "name": "Lunds kommun",
+        "shortName": "Lund"
+      },
+      {
+        "code": "1282",
+        "name": "Landskrona kommun",
+        "shortName": "Landskrona"
+      },
+      {
+        "code": "1283",
+        "name": "Helsingborgs kommun",
+        "shortName": "Helsingsborg"
+      },
+      {
+        "code": "1284",
+        "name": "Höganäs kommun",
+        "shortName": "Höganäs"
+      },
+      {
+        "code": "1285",
+        "name": "Eslövs kommun",
+        "shortName": "Eslöv"
+      },
+      {
+        "code": "1286",
+        "name": "Ystads kommun",
+        "shortName": "Ystad"
+      },
+      {
+        "code": "1287",
+        "name": "Trelleborgs kommun",
+        "shortName": "Trelleborg"
+      },
+      {
+        "code": "1290",
+        "name": "Kristianstads kommun",
+        "shortName": "Kristianstad"
+      },
+      {
+        "code": "1291",
+        "name": "Simrishamns kommun",
+        "shortName": "Simrishamn"
+      },
+      {
+        "code": "1292",
+        "name": "Ängelholms kommun",
+        "shortName": "Ängelholm"
+      },
+      {
+        "code": "1293",
+        "name": "Hässleholms kommun",
+        "shortName": "Hässleholm"
+      }
+    ]
+  },
+  {
+    "code": "13",
+    "name": "Hallands län",
+    "municipalities": [
+      {
+        "code": "1315",
+        "name": "Hylte kommun",
+        "shortName": "Hylte"
+      },
+      {
+        "code": "1380",
+        "name": "Halmstads kommun",
+        "shortName": "Halmstad"
+      },
+      {
+        "code": "1381",
+        "name": "Laholms kommun",
+        "shortName": "Laholm"
+      },
+      {
+        "code": "1382",
+        "name": "Falkenbergs kommun",
+        "shortName": "Falkenberg"
+      },
+      {
+        "code": "1383",
+        "name": "Varbergs kommun",
+        "shortName": "Varberg"
+      },
+      {
+        "code": "1384",
+        "name": "Kungsbacka kommun",
+        "shortName": "Kungsbacka"
+      }
+    ]
+  },
+  {
+    "code": "14",
+    "name": "Västra Götalands län",
+    "municipalities": [
+      {
+        "code": "1401",
+        "name": "Härryda kommun",
+        "shortName": "Härryda"
+      },
+      {
+        "code": "1402",
+        "name": "Partille kommun",
+        "shortName": "Partille"
+      },
+      {
+        "code": "1407",
+        "name": "Öckerö kommun",
+        "shortName": "Öckerö"
+      },
+      {
+        "code": "1415",
+        "name": "Stenungsunds kommun",
+        "shortName": "Stenungsund"
+      },
+      {
+        "code": "1419",
+        "name": "Tjörns kommun",
+        "shortName": "Tjörn"
+      },
+      {
+        "code": "1421",
+        "name": "Orusts kommun",
+        "shortName": "Orust"
+      },
+      {
+        "code": "1427",
+        "name": "Sotenäs kommun",
+        "shortName": "Sotenäs"
+      },
+      {
+        "code": "1430",
+        "name": "Munkedals kommun",
+        "shortName": "Munkedal"
+      },
+      {
+        "code": "1435",
+        "name": "Tanums kommun",
+        "shortName": "Tanum"
+      },
+      {
+        "code": "1438",
+        "name": "Dals-Eds kommun",
+        "shortName": "Dals-Ed"
+      },
+      {
+        "code": "1439",
+        "name": "Färgelanda kommun",
+        "shortName": "Färgelanda"
+      },
+      {
+        "code": "1440",
+        "name": "Ale kommun",
+        "shortName": "Ale"
+      },
+      {
+        "code": "1441",
+        "name": "Lerums kommun",
+        "shortName": "Lerum"
+      },
+      {
+        "code": "1442",
+        "name": "Vårgårda kommun",
+        "shortName": "Vårgårda"
+      },
+      {
+        "code": "1443",
+        "name": "Bollebygds kommun",
+        "shortName": "Bollebygd"
+      },
+      {
+        "code": "1444",
+        "name": "Grästorps kommun",
+        "shortName": "Grästorp"
+      },
+      {
+        "code": "1445",
+        "name": "Essunga kommun",
+        "shortName": "Essunga"
+      },
+      {
+        "code": "1446",
+        "name": "Karlsborgs kommun",
+        "shortName": "Karlsborg"
+      },
+      {
+        "code": "1447",
+        "name": "Gullspångs kommun",
+        "shortName": "Gullspång"
+      },
+      {
+        "code": "1452",
+        "name": "Tranemo kommun",
+        "shortName": "Tranemo"
+      },
+      {
+        "code": "1460",
+        "name": "Bengtsfors kommun",
+        "shortName": "Bengtsfors"
+      },
+      {
+        "code": "1461",
+        "name": "Melleruds kommun",
+        "shortName": "Mellerud"
+      },
+      {
+        "code": "1462",
+        "name": "Lilla Edets kommun",
+        "shortName": "Lilla Edet"
+      },
+      {
+        "code": "1463",
+        "name": "Marks kommun",
+        "shortName": "Mark"
+      },
+      {
+        "code": "1465",
+        "name": "Svenljunga kommun",
+        "shortName": "Svenljunga"
+      },
+      {
+        "code": "1466",
+        "name": "Herrljunga kommun",
+        "shortName": "Herrljunga"
+      },
+      {
+        "code": "1470",
+        "name": "Vara kommun",
+        "shortName": "Vara"
+      },
+      {
+        "code": "1471",
+        "name": "Götene kommun",
+        "shortName": "Götene"
+      },
+      {
+        "code": "1472",
+        "name": "Tibro kommun",
+        "shortName": "Tibro"
+      },
+      {
+        "code": "1473",
+        "name": "Töreboda kommun",
+        "shortName": "Töreboda"
+      },
+      {
+        "code": "1480",
+        "name": "Göteborgs kommun",
+        "shortName": "Göteborg"
+      },
+      {
+        "code": "1481",
+        "name": "Mölndals kommun",
+        "shortName": "Mölndal"
+      },
+      {
+        "code": "1482",
+        "name": "Kungälvs kommun",
+        "shortName": "Kungälv"
+      },
+      {
+        "code": "1484",
+        "name": "Lysekils kommun",
+        "shortName": "Lysekil"
+      },
+      {
+        "code": "1485",
+        "name": "Uddevalla kommun",
+        "shortName": "Uddevalla"
+      },
+      {
+        "code": "1486",
+        "name": "Strömstads kommun",
+        "shortName": "Strömstad"
+      },
+      {
+        "code": "1487",
+        "name": "Vänersborgs kommun",
+        "shortName": "Värnersborg"
+      },
+      {
+        "code": "1488",
+        "name": "Trollhättans kommun",
+        "shortName": "Trollhättan"
+      },
+      {
+        "code": "1489",
+        "name": "Alingsås kommun",
+        "shortName": "Alingsås"
+      },
+      {
+        "code": "1490",
+        "name": "Borås kommun",
+        "shortName": "Borås"
+      },
+      {
+        "code": "1491",
+        "name": "Ulricehamns kommun",
+        "shortName": "Ulricehamn"
+      },
+      {
+        "code": "1492",
+        "name": "Åmåls kommun",
+        "shortName": "Åmål"
+      },
+      {
+        "code": "1493",
+        "name": "Mariestads kommun",
+        "shortName": "Mariestad"
+      },
+      {
+        "code": "1494",
+        "name": "Lidköpings kommun",
+        "shortName": "Lidköping"
+      },
+      {
+        "code": "1495",
+        "name": "Skara kommun",
+        "shortName": "Skara"
+      },
+      {
+        "code": "1496",
+        "name": "Skövde kommun",
+        "shortName": "Skövde"
+      },
+      {
+        "code": "1497",
+        "name": "Hjo kommun",
+        "shortName": "Hjo"
+      },
+      {
+        "code": "1498",
+        "name": "Tidaholms kommun",
+        "shortName": "Tidaholm"
+      },
+      {
+        "code": "1499",
+        "name": "Falköpings kommun",
+        "shortName": "Falköping"
+      }
+    ]
+  },
+  {
+    "code": "17",
+    "name": "Värmlands län",
+    "municipalities": [
+      {
+        "code": "1715",
+        "name": "Kils kommun",
+        "shortName": "Kil"
+      },
+      {
+        "code": "1730",
+        "name": "Eda kommun",
+        "shortName": "Eda"
+      },
+      {
+        "code": "1737",
+        "name": "Torsby kommun",
+        "shortName": "Torsby"
+      },
+      {
+        "code": "1760",
+        "name": "Storfors kommun",
+        "shortName": "Storfors"
+      },
+      {
+        "code": "1761",
+        "name": "Hammarö kommun",
+        "shortName": "Hammarö"
+      },
+      {
+        "code": "1762",
+        "name": "Munkfors kommun",
+        "shortName": "Munkfors"
+      },
+      {
+        "code": "1763",
+        "name": "Forshaga kommun",
+        "shortName": "Forshaga"
+      },
+      {
+        "code": "1764",
+        "name": "Grums kommun",
+        "shortName": "Grums"
+      },
+      {
+        "code": "1765",
+        "name": "Årjängs kommun",
+        "shortName": "Årjäng"
+      },
+      {
+        "code": "1766",
+        "name": "Sunne kommun",
+        "shortName": "Sunne"
+      },
+      {
+        "code": "1780",
+        "name": "Karlstads kommun",
+        "shortName": "Karlstad"
+      },
+      {
+        "code": "1781",
+        "name": "Kristinehamns kommun",
+        "shortName": "Kristinehamn"
+      },
+      {
+        "code": "1782",
+        "name": "Filipstads kommun",
+        "shortName": "Filistad"
+      },
+      {
+        "code": "1783",
+        "name": "Hagfors kommun",
+        "shortName": "Hagfors"
+      },
+      {
+        "code": "1784",
+        "name": "Arvika kommun",
+        "shortName": "Arvika"
+      },
+      {
+        "code": "1785",
+        "name": "Säffle kommun",
+        "shortName": "Säffle"
+      }
+    ]
+  },
+  {
+    "code": "18",
+    "name": "Örebro län",
+    "municipalities": [
+      {
+        "code": "1814",
+        "name": "Lekebergs kommun",
+        "shortName": "Lekeberg"
+      },
+      {
+        "code": "1860",
+        "name": "Laxå kommun",
+        "shortName": "Laxå"
+      },
+      {
+        "code": "1861",
+        "name": "Hallsbergs kommun",
+        "shortName": "Hallsberg"
+      },
+      {
+        "code": "1862",
+        "name": "Degerfors kommun",
+        "shortName": "Degerfors"
+      },
+      {
+        "code": "1863",
+        "name": "Hällefors kommun",
+        "shortName": "Hällefors"
+      },
+      {
+        "code": "1864",
+        "name": "Ljusnarsbergs kommun",
+        "shortName": "Ljusnarsberg"
+      },
+      {
+        "code": "1880",
+        "name": "Örebro kommun",
+        "shortName": "Örebro"
+      },
+      {
+        "code": "1881",
+        "name": "Kumla kommun",
+        "shortName": "Kumla"
+      },
+      {
+        "code": "1882",
+        "name": "Askersunds kommun",
+        "shortName": "Askersund"
+      },
+      {
+        "code": "1883",
+        "name": "Karlskoga kommun",
+        "shortName": "Karlskoga"
+      },
+      {
+        "code": "1884",
+        "name": "Nora kommun",
+        "shortName": "Nora"
+      },
+      {
+        "code": "1885",
+        "name": "Lindesbergs kommun",
+        "shortName": "Lindesberg"
+      }
+    ]
+  },
+  {
+    "code": "19",
+    "name": "Västmanlands län",
+    "municipalities": [
+      {
+        "code": "1904",
+        "name": "Skinnskattebergs kommun",
+        "shortName": "Skinnskatteberg"
+      },
+      {
+        "code": "1907",
+        "name": "Surahammars kommun",
+        "shortName": "Surahammar"
+      },
+      {
+        "code": "1960",
+        "name": "Kungsörs kommun",
+        "shortName": "Kungsör"
+      },
+      {
+        "code": "1961",
+        "name": "Hallstahammars kommun",
+        "shortName": "Hallstahammar"
+      },
+      {
+        "code": "1962",
+        "name": "Norbergs kommun",
+        "shortName": "Norberg"
+      },
+      {
+        "code": "1980",
+        "name": "Västerås kommun",
+        "shortName": "Västerås"
+      },
+      {
+        "code": "1981",
+        "name": "Sala kommun",
+        "shortName": "Sala"
+      },
+      {
+        "code": "1982",
+        "name": "Fagersta kommun",
+        "shortName": "Fagersta"
+      },
+      {
+        "code": "1983",
+        "name": "Köpings kommun",
+        "shortName": "Köping"
+      },
+      {
+        "code": "1984",
+        "name": "Arboga kommun",
+        "shortName": "Arboga"
+      }
+    ]
+  },
+  {
+    "code": "20",
+    "name": "Dalarnas län",
+    "municipalities": [
+      {
+        "code": "2021",
+        "name": "Vansbro kommun",
+        "shortName": "Vansbro"
+      },
+      {
+        "code": "2023",
+        "name": "Malung–Sälens kommun",
+        "shortName": "Malung–Sälen"
+      },
+      {
+        "code": "2026",
+        "name": "Gagnefs kommun",
+        "shortName": "Gagnef"
+      },
+      {
+        "code": "2029",
+        "name": "Leksands kommun",
+        "shortName": "Leksand"
+      },
+      {
+        "code": "2031",
+        "name": "Rättviks kommun",
+        "shortName": "Rättvik"
+      },
+      {
+        "code": "2034",
+        "name": "Orsa kommun",
+        "shortName": "Orsa"
+      },
+      {
+        "code": "2039",
+        "name": "Älvdalens kommun",
+        "shortName": "Älvdalen"
+      },
+      {
+        "code": "2061",
+        "name": "Smedjebackens kommun",
+        "shortName": "Smedjebacken"
+      },
+      {
+        "code": "2062",
+        "name": "Mora kommun",
+        "shortName": "Mora"
+      },
+      {
+        "code": "2080",
+        "name": "Falun kommun",
+        "shortName": "Falun"
+      },
+      {
+        "code": "2081",
+        "name": "Borlänge kommun",
+        "shortName": "Borlänge"
+      },
+      {
+        "code": "2082",
+        "name": "Säters kommun",
+        "shortName": "Säter"
+      },
+      {
+        "code": "2083",
+        "name": "Hedemora kommun",
+        "shortName": "Hedemora"
+      },
+      {
+        "code": "2084",
+        "name": "Avesta kommun",
+        "shortName": "Avesta"
+      },
+      {
+        "code": "2085",
+        "name": "Ludvika kommun",
+        "shortName": "Ludvika"
+      }
+    ]
+  },
+  {
+    "code": "21",
+    "name": "Värmlands län",
+    "municipalities": [
+      {
+        "code": "2101",
+        "name": "Ockelbo kommun",
+        "shortName": "Ockelbo"
+      },
+      {
+        "code": "2104",
+        "name": "Hofors kommun",
+        "shortName": "Hofors"
+      },
+      {
+        "code": "2121",
+        "name": "Ovanåkers kommun",
+        "shortName": "Ovanåker"
+      },
+      {
+        "code": "2132",
+        "name": "Nordanstigs kommun",
+        "shortName": "Nordanstig"
+      },
+      {
+        "code": "2161",
+        "name": "Ljusdals kommun",
+        "shortName": "Ljusdal"
+      },
+      {
+        "code": "2180",
+        "name": "Gävle kommun",
+        "shortName": "Gävle"
+      },
+      {
+        "code": "2181",
+        "name": "Sandvikens kommun",
+        "shortName": "Sandviken"
+      },
+      {
+        "code": "2182",
+        "name": "Söderhamns kommun",
+        "shortName": "Söderhamn"
+      },
+      {
+        "code": "2183",
+        "name": "Bollnäs kommun",
+        "shortName": "Bollnäs"
+      },
+      {
+        "code": "2184",
+        "name": "Hudiksvalls kommun",
+        "shortName": "Hudiksvall"
+      }
+    ]
+  },
+  {
+    "code": "22",
+    "name": "Västernorrlands län",
+    "municipalities": [
+      {
+        "code": "2260",
+        "name": "Ånge kommun",
+        "shortName": "Ånge"
+      },
+      {
+        "code": "2262",
+        "name": "Timrå kommun",
+        "shortName": "Timrå"
+      },
+      {
+        "code": "2280",
+        "name": "Härnösands kommun",
+        "shortName": "Härnösand"
+      },
+      {
+        "code": "2281",
+        "name": "Sundsvalls kommun",
+        "shortName": "Sundsvall"
+      },
+      {
+        "code": "2282",
+        "name": "Kramfors kommun",
+        "shortName": "Kramfors"
+      },
+      {
+        "code": "2283",
+        "name": "Sollefteå kommun",
+        "shortName": "Sollefteå"
+      },
+      {
+        "code": "2284",
+        "name": "Örnsköldsviks kommun",
+        "shortName": "Örnsköldsvik"
+      }
+    ]
+  },
+  {
+    "code": "23",
+    "name": "Jämtlands län",
+    "municipalities": [
+      {
+        "code": "2303",
+        "name": "Ragunda kommun",
+        "shortName": "Ragunda"
+      },
+      {
+        "code": "2305",
+        "name": "Bräcke kommun",
+        "shortName": "Bräcke"
+      },
+      {
+        "code": "2309",
+        "name": "Krokoms kommun",
+        "shortName": "Krokom"
+      },
+      {
+        "code": "2313",
+        "name": "Strömsunds kommun",
+        "shortName": "Strömsund"
+      },
+      {
+        "code": "2321",
+        "name": "Åre kommun",
+        "shortName": "Åre"
+      },
+      {
+        "code": "2326",
+        "name": "Bergs kommun",
+        "shortName": "Berg"
+      },
+      {
+        "code": "2361",
+        "name": "Härjedalens kommun",
+        "shortName": "Härjedalen"
+      },
+      {
+        "code": "2380",
+        "name": "Östersunds kommun",
+        "shortName": "Östersund"
+      }
+    ]
+  },
+  {
+    "code": "24",
+    "name": "Västerbottens län",
+    "municipalities": [
+      {
+        "code": "2401",
+        "name": "Nordmalings kommun",
+        "shortName": "Nordmaling"
+      },
+      {
+        "code": "2403",
+        "name": "Bjurholms kommun",
+        "shortName": "Bjurholm"
+      },
+      {
+        "code": "2404",
+        "name": "Vindelns kommun",
+        "shortName": "Vindeln"
+      },
+      {
+        "code": "2409",
+        "name": "Robertsfors kommun",
+        "shortName": "Robertsfors"
+      },
+      {
+        "code": "2417",
+        "name": "Norsjö kommun",
+        "shortName": "Norsjö"
+      },
+      {
+        "code": "2418",
+        "name": "Malå kommun",
+        "shortName": "Malå"
+      },
+      {
+        "code": "2421",
+        "name": "Storumans kommun",
+        "shortName": "Storuman"
+      },
+      {
+        "code": "2422",
+        "name": "Sorsele kommun",
+        "shortName": "Sorsele"
+      },
+      {
+        "code": "2425",
+        "name": "Dorotea kommun",
+        "shortName": "Dorotea"
+      },
+      {
+        "code": "2460",
+        "name": "Vännäs kommun",
+        "shortName": "Vännäs"
+      },
+      {
+        "code": "2462",
+        "name": "Vilhelmina kommun",
+        "shortName": "Vilhelmina"
+      },
+      {
+        "code": "2463",
+        "name": "Åsele kommun",
+        "shortName": "Åsele"
+      },
+      {
+        "code": "2480",
+        "name": "Umeå kommun",
+        "shortName": "Umeå"
+      },
+      {
+        "code": "2481",
+        "name": "Lycksele kommun",
+        "shortName": "Lycksele"
+      },
+      {
+        "code": "2482",
+        "name": "Skellefteå kommun",
+        "shortName": "Skellefteå"
+      }
+    ]
+  },
+  {
+    "code": "25",
+    "name": "Norrbottens län",
+    "municipalities": [
+      {
+        "code": "2505",
+        "name": "Arvidsjaurs kommun",
+        "shortName": "Arvidsjaur"
+      },
+      {
+        "code": "2506",
+        "name": "Arjeplogs kommun",
+        "shortName": "Arjeplog"
+      },
+      {
+        "code": "2510",
+        "name": "Jokkmokks kommun",
+        "shortName": "Jokkmokk"
+      },
+      {
+        "code": "2513",
+        "name": "Överkalix kommun",
+        "shortName": "Överkalix"
+      },
+      {
+        "code": "2514",
+        "name": "Kalix kommun",
+        "shortName": "Kalix"
+      },
+      {
+        "code": "2518",
+        "name": "Övertorneå kommun",
+        "shortName": "Övertorneå"
+      },
+      {
+        "code": "2521",
+        "name": "Pajala kommun",
+        "shortName": "Pajala"
+      },
+      {
+        "code": "2523",
+        "name": "Gällivare kommun",
+        "shortName": "Gällivare"
+      },
+      {
+        "code": "2560",
+        "name": "Älvsbyns kommun",
+        "shortName": "Älvsbyn"
+      },
+      {
+        "code": "2580",
+        "name": "Luleå kommun",
+        "shortName": "Luleå"
+      },
+      {
+        "code": "2581",
+        "name": "Piteå kommun",
+        "shortName": "Piteå"
+      },
+      {
+        "code": "2582",
+        "name": "Bodens kommun",
+        "shortName": "Boden"
+      },
+      {
+        "code": "2583",
+        "name": "Haparanda kommun",
+        "shortName": "Haparanda"
+      },
+      {
+        "code": "2584",
+        "name": "Kiruna kommun",
+        "shortName": "Kiruna"
+      }
+    ]
+  }
+]
