@@ -2,6 +2,10 @@
 
 This repository contains a JSON file with data on Swedish counties and municipalities. The data is based on information from [Statistics Sweden (SCB)](https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/lan-och-kommuner/lan-och-kommuner-i-kodnummerordning/).
 
+## Svenska Län och Kommuner JSON
+
+Detta repository innehåller en JSON-fil med data om svenska län och kommuner. Datan är baserad på information från [Statistiska Centralbyrån (SCB)](https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/lan-och-kommuner/lan-och-kommuner-i-kodnummerordning/).
+
 ## File Structure
 
 - `kommuner.json`: Contains the list of counties and their respective municipalities in Sweden.
